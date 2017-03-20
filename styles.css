@@ -1,0 +1,51 @@
+html {
+    background-color:#80ffff;
+}
+
+h1 {
+    text-align:center;
+}
+
+li {
+    font-size:20px;
+}
+
+h3 {
+    font-size:20px;
+    text-align:center;
+    font-family:cursive;
+}
+
+a {
+    text-decoration:none;
+}
+
+.red {
+    color:red;
+}
+
+.black {
+    color:black;
+}
+
+#king {
+    color:orange;
+}
+
+img {
+    background-color:white;
+    height:200px;
+    width:auto;
+    border:2px solid black;
+    padding:25px;
+    margin:auto;
+}
+
+.fancy {
+    font-family:cursive;
+}
+
+#footer {
+    text-align:center;
+    font-size:10px;
+}
